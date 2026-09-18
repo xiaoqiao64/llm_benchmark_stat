@@ -1,0 +1,17 @@
+README.md
+  h_7649dc09ebeed3 1-25
+stat.md
+  h_7649dc09ebeed3 1-149
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "e628d76cebfe8c5a121fade5982be100d8c89e89",
+  "prompts": {},
+  "logical_commit_id": "e628d76cebfe8c5a121fade5982be100d8c89e89",
+  "humans": {
+    "h_7649dc09ebeed3": {
+      "author": "xiaoqiao <xiaoqiao64@126.com>"
+    }
+  }
+}
